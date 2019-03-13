@@ -12,4 +12,4 @@ Fingerprint Voting System is implemented with the Arduino technology.In this Sys
 
 
 
-![alt img].()
+![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/photo.jpg)
