@@ -19,7 +19,7 @@ Fingerprint Voting System is implemented with the Arduino technology.In this Sys
 <strong>DESCRIPTION OF COMPONENTS USED :-</strong>
 <strong>FINGERPRINT SENSOR MODULE</strong> is a module which captures finger's print image and then converts it into the equivalent templates and saves them into its memory on selection ID(location) by Arduino. Here all the process is commanded by Arduino like taking an image of finger print,convert it into templates and storing location etc. It contains four terminals GND(ground),TD(Data output),RD(Data input) and VCC(+5v).
 It works on DC power 3.6V-6.0V and 100mA to150mA.It storage capacity depends on its model like R30X series has storage capacity of 256 etc.Fingerprint processing has two parts: fingerprint enrollment and fingerprint matching. Fingerprint enrollment enrolls the fingerprint a ID and fingerprint matching confirms the enrolled print to ID .
-
+![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/Fingerprint-Sensor-01.jpg)
 
 <strong>ARDUINO UNO</strong> is a microcontroller board based on the ATmega328. It has 20 digital input/output pins( of which 6 can be used as PWM(pulse with modulation) and 6 can be used as analog inputs),a 16 MHz resonator,a USB connection,a power jack,an in-circuit system programing header ,reset button,led connected to pin 13.
 
