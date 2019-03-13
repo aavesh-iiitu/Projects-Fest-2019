@@ -22,4 +22,10 @@ In case if the patient regains consciousness and attempts to move, the sensor wi
 
 The construction and working of our IoT based health system can be well defined by the following block diagrams and images:</br>
 ![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/healthmonitoring%20image%201.png)</br>
-![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/health%20monitoring%20image%202.jpg)
+![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/health%20monitoring%20image%202.jpg)</br>
+**Future scope:**
+
+As a conclusion, a prototype of patient monitoring system using wireless sensor network has been successfully developed.
+Based on the results obtained from the project, it showed that the project achieved the first objective.The system is able to process the information and display real time data on the internet. The sensor data can be monitored through laptop or personal computer wirelessly.In order to commercialize the device to the public usage, some improvements need to be considered. Therefore, for the future works, more vitals parameters should be added to make it more valuable to the patients. For example, pulse oximeter and blood pressure are added to monitor oxygen concentration and blood pressure of patients.Another improvement that can be made in this project is replacing the used sensors with some good quality sensors. This might help to make it more functional to the users.
+
+
