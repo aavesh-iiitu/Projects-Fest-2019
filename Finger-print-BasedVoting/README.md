@@ -21,9 +21,6 @@ Fingerprint Voting System is implemented with the Arduino technology.In this Sys
 It works on DC power 3.6V-6.0V and 100mA to150mA.It storage capacity depends on its model like R30X series has storage capacity of 256 etc.Fingerprint processing has two parts: fingerprint enrollment and fingerprint matching. Fingerprint enrollment enrolls the fingerprint a ID and fingerprint matching confirms the enrolled print to ID .
 
 
-
-
-
 <strong>ARDUINO UNO</strong> is a microcontroller board based on the ATmega328. It has 20 digital input/output pins( of which 6 can be used as PWM(pulse with modulation) and 6 can be used as analog inputs),a 16 MHz resonator,a USB connection,a power jack,an in-circuit system programing header ,reset button,led connected to pin 13.
 
 ![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/photo.jpg)
@@ -34,6 +31,7 @@ It works on DC power 3.6V-6.0V and 100mA to150mA.It storage capacity depends on 
 ![alt text](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/16x2-lcd-display.jpg)
 
 <strong>RESISTORS:-</strong>
+![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/resistor.jpg)
 
 <strong>CIRCUIT DIAGRAM:-</strong>
 ![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/cicuit%20diagram.png)
