@@ -23,8 +23,7 @@
 - A LM317 Voltage regulator is used to power the SIM800 GSM module. LM317 is very sensitive to voltage rating and its operating voltage rating is 3.8v to 4.2v .
 - An LCD is also used for displaying status and messages. Control pins of LCD, RS and EN are connected to pin 14 and 15 of Arduino and data pins of LCD D4-D7 are directly connected at pin 16, 17, 18 and 19 of Arduino.<br/>
 - A 12V Relay is used to control the 220VAC small water pump. The relay is driven by a BC547 Transistor which is further connected to digital pin 11 of Arduino.
-<div class="image">
-    <a href="/desktop/img1.png">
-        <img alt="Conference" src="/desktop/img1.png" />
-    </a>
-</div>
+![alt text](https://github.com/apurv0303/Projects-Fest-2019/blob/master/Automation-Irrigation-System/img1.png)
+**Working:**
+If moisture is present in soil then there is conduction between the two probes of Soil Moisture sensor and due to this conduction, transistor Q2 remains in triggered/on state and Arduino Pin D7 remains Low. When Arduino reads LOW signal at D7, then it sends SMS to user about “Soil Moisture is Normal. Motor turned OFF” and water pump remains in Off state.</br>
+Now if there is no Moisture in soil then Transistor Q2 becomes Off and Pin D7 becomes High. Then Arduino reads the Pin D7 and turns On the water motor and also sends message to user about “Low Soil Moisture detected. Motor turned ON”. Motor will automatically turn off when there is sufficient moisture in the soil.
