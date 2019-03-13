@@ -36,3 +36,4 @@ It works on DC power 3.6V-6.0V and 100mA to150mA.It storage capacity depends on 
 <strong>RESISTORS:-</strong>
 
 <strong>CIRCUIT DIAGRAM:-</strong>
+![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/cicuit%20diagram.png)
