@@ -12,10 +12,4 @@ Fingerprint Voting System is implemented with the Arduino technology.In this Sys
 
 
 
-<html>
-<div class="image">
-   
-        <img src="../photo.jpg"  alt="" />
-    
-</div>
-</html>
+![alt img].()
