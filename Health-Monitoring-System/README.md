@@ -21,5 +21,5 @@ In case if the patient regains consciousness and attempts to move, the sensor wi
 **Construction and working:**
 
 The construction and working of our IoT based health system can be well defined by the following block diagrams and images:</br>
-![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/healthmonitoring%20image%201.png)
-![alt text]()
+![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/healthmonitoring%20image%201.png)</br>
+![alt text](https://github.com/AaryanG/Projects-Fest-2019/blob/master/Health-Monitoring-System/health%20monitoring%20image%202.jpg)
