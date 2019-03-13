@@ -2,21 +2,21 @@
 
 This project aims to implement a cost-effective wave player based on AVR (ATmega / ATiny Series) with CD-Audio Quality, which can play 8-bit/16-bit Mono/Stereo standard RIFF (Resource Interchange File Format) wave files.  This project can be applied into many applications such as bus / subway auto-annoucing system, elevator voice indication system.
 
-<strong>WAV over MP3</strong>
+<strong>Why WAV over MP3</strong>
 
 ->A WAV file format is simpler than MP3 and Easy to decode.
 
-->WAV file is loseless .Thus there is no deteriotaion in audio quality
+->WAV file is loseless .Thus there is no deteriotaion in audio quality.
 
 <strong>USES</strong>
 
-->Compare to OTP chip which is one time Programmable 1GB,SD card can store over 200 songs
+->Compare to OTP chip which is One Time Programmable 1GB, SD card can store over 200 songs
 
-->SD card can be formated and rerote again and again..
+->SD card can be formated and rewrote again and again..
 
 <strong>COMPONENTS</strong>
 
-->ATMega-1284p - It is low power CMOS 8bit based on AVR architecture
+->ATMega-1284p - It is low power CMOS 8bit based on AVR architecture.
 
 ->Push Buttons: 2
 
@@ -37,9 +37,4 @@ This project aims to implement a cost-effective wave player based on AVR (ATmega
 ->FAT32 file system - Standard file system so that SD card can be operated normally in any PC with FAT support. With this method, it is very convenient to replace / update audio files, the difficulty is that a lightweight File System must be implemented so that MCU is able to retrieve data via standard FAT16/32.
 
 <strong>SCHEMATIC</strong>
-
-<div class="image">
-   
-        <img alt="Octacat" src="C:\Users\Ritik sharma\Desktop\Schematic" />
-   
-</div>
+![alt text](https://github.com/SharmaRitik/Projects-Fest-2019/blob/master/AVR-16Bit-WAV-Player/Schematic.jpg)
