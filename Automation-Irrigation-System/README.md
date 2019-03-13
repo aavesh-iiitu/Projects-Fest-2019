@@ -1,4 +1,4 @@
-<h1>Automation Irrigation System</h1>
+## Automation Irrigation System
 
 **Introduction:** In this project,with the help of arduino we have created an automatic plant watering system,which will waters plant without any human interference.
 
@@ -27,3 +27,8 @@
 **Working:**
 If moisture is present in soil then there is conduction between the two probes of Soil Moisture sensor and due to this conduction, transistor Q2 remains in triggered/on state and Arduino Pin D7 remains Low. When Arduino reads LOW signal at D7, then it sends SMS to user about “Soil Moisture is Normal. Motor turned OFF” and water pump remains in Off state.</br>
 Now if there is no Moisture in soil then Transistor Q2 becomes Off and Pin D7 becomes High. Then Arduino reads the Pin D7 and turns On the water motor and also sends message to user about “Low Soil Moisture detected. Motor turned ON”. Motor will automatically turn off when there is sufficient moisture in the soil.
+![alt text](https://github.com/apurv0303/Projects-Fest-2019/blob/master/Automation-Irrigation-System/2019-03-13%20(5).png)
+
+**Application:**
+- For commercial purpose,it can be produced on a large scale for installation in crop fields.
+- People do not pour the water on to the plants in their gardens when they go to vacation or often forgot to water plants.As a result,there is a chance to get the plants damaged.This project will help in this situations.
