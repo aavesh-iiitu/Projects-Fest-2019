@@ -28,7 +28,7 @@ It works on DC power 3.6V-6.0V and 100mA to150mA.It storage capacity depends on 
 
 ![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/photo.jpg)
 <strong>PIEZO SPEAKER/BUZZER-</strong>It is a type of speaker which uses analog signal to produce sound. In the arduinoIDE it uses tone() function.
-
+![alt img](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/buzzer.jpg)
 
 <strong>LCD DISPLAY:</strong>16x2 LCD is used for displaying the polled votes.
 ![alt text](https://github.com/iiituece18212/Projects-Fest-2019/blob/master/Finger-print-BasedVoting/16x2-lcd-display.jpg)
