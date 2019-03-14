@@ -28,6 +28,7 @@ To get the Bernoulli effect (and to lift the plane), the wings must expose a lar
 Second, we need to maintain a flow of air over and under the wings. This is the job of the engine, which pulls the plane and its wings forward, using a propeller. Once the airplane accelerates to take to a speed sufficient to generate enough lift for the airplane to fly, the airplane can take off.
 
 **RC AIRPLANE CONTROLS**
+![alt text](https://raw.githubusercontent.com/01anjali/Projects-Fest-2019/master/RC-Aircraft/1.gif)
 
 Major functions of different componenets in RC Airplane controls are:
 •	THROTTLE
