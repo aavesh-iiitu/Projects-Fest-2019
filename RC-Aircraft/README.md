@@ -1,4 +1,4 @@
- <h1> RC Aircraft<h1/>
+ <h1> RC Aircraft</h1>
 INTRODUCTION
 
 A radio-controlled aircraft (often called RC aircraft or RC plane) is a small flying machine that is controlled remotely by an operator on the ground using a hand-held radio transmitter. The transmitter communicates with a receiver within the craft that sends signals to servomechanisms (servos) which move the control surfaces based on the position of joysticks on the transmitter.
