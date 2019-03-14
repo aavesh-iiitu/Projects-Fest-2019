@@ -27,5 +27,40 @@ Planes fly by virtue of Bernoulli's principle on their wings. Air being pushed u
 To get the Bernoulli effect (and to lift the plane), the wings must expose a larger surface on top than below the wing. A curved wing does just that.
 Second, we need to maintain a flow of air over and under the wings. This is the job of the engine, which pulls the plane and its wings forward, using a propeller. Once the airplane accelerates to take to a speed sufficient to generate enough lift for the airplane to fly, the airplane can take off.
 
+**RC AIRPLANE CONTROLS**
+
+Major functions of different componenets in RC Airplane controls are:
+•	THROTTLE
+Throttle controls the speed of the engine and hence how fast or slow the propeller turns.
+
+
+•	Elevators
+The elevators are the hinged section of the tailplane, or horizontal stabiliser, at the very rear of the airplane and are the single most important control surface. 
+Elevators control the horizontal pitch attitude of the airplane, in other words whether the nose of the plane points upwards or downwards.
+
+
+•	Ailerons
+Ailerons control the roll of the airplane about its longitudinal axis.
+Ailerons work in pairs and are found on the trailing (rear) edge of the wing, and they work opposite to each other i.e. when one aileron moves up, the other one moves down and vice versa.
+
+
+•	Rudder
+The rudder is the hinged section of the fin, or vertical stabiliser, at the rear of the airplane. 
+It's used for directional control by changing the yaw of the airplane, and works in the correct sense i.e. moving the rudder to the left causes the airplane to turn left and vice versa.
+
+
+•	Flaps
+Flaps are located on the trailing edge of each wing, between the aileron and fuselage. They're used to generate more lift at slower flying speeds and, at greater deflection, to slow the airplane down close to landing by causing excessive drag. 
+
+
+•	Retracts
+Retractable landing gear (undercarriage) is landing gear that folds away into the airplane's wings or fuselage once the plane has taken off.
+
+
+**CONCLUSION**
+The major use of this Rc aircrafts is in case of brutal disasters, man made or natural, for providing instant relief to victims .Rc aircrafts can be a major asset in delivering food packets and in aerial surveillance.
+
+
+
 
 
