@@ -46,9 +46,19 @@ In this project they serve the purpose of coin detector. So when a coin is passe
 
 6.	Motor driver:
 Motor drivers are circuits used to run a motor. In other words, they are commonly used for motor interfacing. These drive circuits can be easily interfaced with the motor and their selection depends upon the type of motor being used and their ratings (current, voltage).
+
 ![alt text](https://github.com/swarnima14/Projects-Fest-2019/blob/master/Food-Vending-Machine/1.jpg)
+
 **CIRCUIT DIAGRAM:**
-![alt text]()
+
+![alt text](https://github.com/swarnima14/Projects-Fest-2019/blob/master/Food-Vending-Machine/2.png)
+**CONCLUSION:**
+
+Vending machines are convenient and they are time saver for the customers. They reduce the overhead costs by not hiring the staff as they are fully automated. 
+They increase the profit. They accept credit-card or coins and they offer healthier food.
+Vending machines work 24 hour a day and 365 days a year. They need neither stuff nor specialized attention. 
+
+
 
 
 
