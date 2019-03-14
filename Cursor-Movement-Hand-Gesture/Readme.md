@@ -2,7 +2,7 @@
 
 
 <center><h1>Cursor Movement <br>By Hand Gesture</h1></center>
-<h2>members:</h2>
+<h2>Members:</h2>
 <br>
 <ul>
 <li>Utkarsh Tiwari(IIITU 17233)</li>
