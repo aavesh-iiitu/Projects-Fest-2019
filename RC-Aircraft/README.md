@@ -17,3 +17,6 @@ A radio-controlled aircraft (often called RC aircraft or RC plane) is a small fl
 10.Transmitter and receiver 2.4GHz 
 11.Sand  Paper( brown+black)
 12.Full Length Tape
+
+**WORKING PRINCIPLE**
+![alt text]()
