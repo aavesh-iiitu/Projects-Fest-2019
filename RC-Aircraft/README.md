@@ -19,4 +19,5 @@ A radio-controlled aircraft (often called RC aircraft or RC plane) is a small fl
 12.Full Length Tape
 
 **WORKING PRINCIPLE**
-![alt text]()
+![alt text](https://github.com/01anjali/Projects-Fest-2019/commit/1630e019ac29c3e06b211dc523808f8ccef32f9b)
+
