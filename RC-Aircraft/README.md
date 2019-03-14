@@ -19,9 +19,11 @@ A radio-controlled aircraft (often called RC aircraft or RC plane) is a small fl
 12.Full Length Tape
 
 **WORKING PRINCIPLE**
-![alt text](
-        Projects-Fest-2019/RC-Aircraft/3.webp
-      )
+
+![alt text](https://github.com/01anjali/Projects-Fest-2019/blob/master/RC-Aircraft/3.webp)
+
+
+
 
 Planes fly by virtue of Bernoulli's principle on their wings. Air being pushed under the wings only accounts for a small portion of the lift forces that make an airplane fly. The real lift forces results from the partial vaccum created above the wings (Bernoulli's principle). In effect, a plane rises on account that it wings are being "sucked up" from above.
 To get the Bernoulli effect (and to lift the plane), the wings must expose a larger surface on top than below the wing. A curved wing does just that.
