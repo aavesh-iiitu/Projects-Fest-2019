@@ -46,6 +46,9 @@ In this project they serve the purpose of coin detector. So when a coin is passe
 
 6.	Motor driver:
 Motor drivers are circuits used to run a motor. In other words, they are commonly used for motor interfacing. These drive circuits can be easily interfaced with the motor and their selection depends upon the type of motor being used and their ratings (current, voltage).
+![alt text](https://github.com/swarnima14/Projects-Fest-2019/blob/master/Food-Vending-Machine/1.jpg)
+**CIRCUIT DIAGRAM:**
+![alt text]()
 
 
 
