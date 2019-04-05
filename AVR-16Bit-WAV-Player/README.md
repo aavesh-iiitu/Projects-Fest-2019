@@ -35,4 +35,4 @@ This project aims to implement a cost-effective wave player based on Arduino wit
 ->FAT32 file system - Standard file system so that SD card can be operated normally in any PC with FAT support. With this method, it is very convenient to replace / update audio files, the difficulty is that a lightweight File System must be implemented so that MCU is able to retrieve data via standard FAT16/32.
 
 <strong>SCHEMATIC</strong>
-![alt text](https://github.com/C:\Users\Aaryan gupta\Desktop)
+![alt text](https://github.com/SharmaRitik/Projects-Fest-2019/blob/master/AVR-16Bit-WAV-Player/FJC9XS4HQC1L1E8.LARGE%5B1%5D.jpg)
