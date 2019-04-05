@@ -1,6 +1,6 @@
 <strong>INTRODUCTION</strong>
 
-This project aims to implement a cost-effective wave player based on AVR (ATmega / ATiny Series) with CD-Audio Quality, which can play 8-bit/16-bit Mono/Stereo standard RIFF (Resource Interchange File Format) wave files.  This project can be applied into many applications such as bus / subway auto-annoucing system, elevator voice indication system.
+This project aims to implement a cost-effective wave player based on Arduino with CD-Audio Quality, which can play 8-bit/16-bit Mono/Stereo standard RIFF (Resource Interchange File Format) wave files.  This project can be applied into many applications such as bus / subway auto-annoucing system, elevator voice indication system.
 
 <strong>Why WAV over MP3</strong>
 
@@ -16,11 +16,9 @@ This project aims to implement a cost-effective wave player based on AVR (ATmega
 
 <strong>COMPONENTS</strong>
 
-->ATMega-1284p - It is low power CMOS 8bit based on AVR architecture.
+->Arduino-Open source prototyping platform enabling user to create interactive electric objects.
 
 ->Push Buttons: 2
-
--> Capacitors: 4.7nF(2), 22pF(2)
 
 ->Resistors: 1M ohm(2), 3.9k ohm(2), 3.3k ohm(3), 1.8k ohm(3), 4.7k ohm(1), 330 ohm
 
@@ -37,4 +35,4 @@ This project aims to implement a cost-effective wave player based on AVR (ATmega
 ->FAT32 file system - Standard file system so that SD card can be operated normally in any PC with FAT support. With this method, it is very convenient to replace / update audio files, the difficulty is that a lightweight File System must be implemented so that MCU is able to retrieve data via standard FAT16/32.
 
 <strong>SCHEMATIC</strong>
-![alt text](https://github.com/SharmaRitik/Projects-Fest-2019/blob/master/AVR-16Bit-WAV-Player/Schematic.jpg)
+![alt text](https://github.com/C:\Users\Aaryan gupta\Desktop)
