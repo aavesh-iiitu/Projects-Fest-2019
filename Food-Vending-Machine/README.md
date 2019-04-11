@@ -7,21 +7,17 @@ This project aims at construction of arduino based automated food vending machin
 **REQUIREMENTS:**
 
 1.	8mm thick MDF board 
-2.	Pulley
-3.	Hollow Aluminium Tubes
-4.	Hand Saw and blade
-5.	NEMA17 Stepper Motor 
-6.	Sliders
-7.	Power Supply 12V
-8.	Power Supply 5V
-9.	Motor Driver A4988
-10.	 Arduino Mega
-11.	 Buttons and switches
-12.	 Servo DS04-NFC
-13.	 Coil
-14.	 IR Proximity Sensor
-15.	 Zipper belt
-16.	 Seven segment LCD 
+2.	Hollow Aluminium Tubes
+3.	Hand Saw and blade
+4.	NEMA17 Stepper Motor 
+5.	Power Supply 12V
+6.	Power Supply 5V
+7.	Motor Driver A4988
+8.	 Arduino Mega
+9.	 Electronic keypad
+10.	 Coil
+11.	 IR Proximity Sensor
+12.	 Seven segment LCD 
 
 
 **CONSTRUCTION:**
@@ -29,7 +25,7 @@ This project aims at construction of arduino based automated food vending machin
 A brief description of the components used in making this project is given below:
 
 1.	NEMA 17 Stepper Motor:
-The NEMA 17 is larger and generally heavier than for example a NEMA 14, but this also means it has more room to put a higher torque. They are used to move sliders on the aluminium tubes.
+The NEMA 17 is larger and generally heavier than for example a NEMA 14, but this also means it has more room to put a higher torque. It is attached to the coil which pushes the food item towards us.
 
 2.	Seven Segment LCD:
 This is used to display whether the food is dispensed or not.
@@ -37,10 +33,7 @@ This is used to display whether the food is dispensed or not.
 3.	Arduino mega:
 The Arduino Mega  is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins , 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. 
 
-4.	Servo DS04-NFC:
-The Servo is a 360-degree continuous rotation motor which can rotate continuously with both forward & backward. This motor is high torque with easy to interface with any type of microcontroller.
-
-5.	IR Proximity Sensor: 
+4.	IR Proximity Sensor: 
 An infrared sensor is an electronic instrument that is used to sense certain characteristics of its surroundings. 
 In this project they serve the purpose of coin detector. So when a coin is passed near them, it will give a positive feedback. 
 
